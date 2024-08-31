@@ -1,9 +1,9 @@
 # tt-event-backend
 
-Server: http://localhost:7777
-DB: Postgresql
-ORM: Prisma
-Tested locally using Insomnia
+* Server: http://localhost:7777
+* DB: Postgresql
+* ORM: Prisma
+* Tested locally using Insomnia
 
 # How to start
 
